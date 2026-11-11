@@ -8,7 +8,7 @@ def test_addition():
 
 
 def test_addition_with_negative_numbers():
-    assert addition(-2, -3) == -4
+    assert addition(-2, -3) == -5
 
 
 def test_addition_with_zero():
